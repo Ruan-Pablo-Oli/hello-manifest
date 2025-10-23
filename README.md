@@ -24,7 +24,7 @@ Este repositório pode ser atualizado automaticamente por um pipeline de CI/CD (
 ## 🔗 Repositório relacionado
 
 * Repositório da aplicação (FastAPI + GitHub Actions):
-  * `https://github.com/Ruan-Pablo-Oli/hello-app` (ou o link correto para o repositório da aplicação)
+  * `https://github.com/Ruan-Pablo-Oli/hello-app`
 
 
   
